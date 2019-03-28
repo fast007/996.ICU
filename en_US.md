@@ -7,7 +7,8 @@
 A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
 Serving a company that encourages the "996" work schedule usually means work for at least 60 hours a week.
 
-[Labor Law of the People’s Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)  
+Quoted from [Labor Law of the People's Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
+
 **Article 36**:  
 > The State shall practice a working hour system wherein employees shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
 
@@ -29,7 +30,7 @@ Serving a company that encourages the "996" work schedule usually means work for
 
 ## Gaining more popularity and publicity
 
-In early 2019, a Chinese E-commerce company called _Youzan_ announced the adoption of the "996" work schedule in the future, at the company's Chinese New Year Party. The CEO of Youzan responded: "This would definitely be a good decision when we look back in a few years time.".
+In early 2019, a Chinese E-commerce company called _Youzan_ announced the adoption of the "996" work schedule in the future, at the company's annual party. The CEO of Youzan responded: "This would definitely be a good decision when we look back in a few years time.".
 
 In Mid-March 2019, it was reported that Jingdong started adopting "996" or "995" work schedule in some of the business units. Jingdong PR posted on their maimai(`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
 
