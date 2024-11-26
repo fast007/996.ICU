@@ -1,11 +1,3 @@
-⚠️ Due to some recent drama, this repository will be temporarily archived.
-
-To dispel rumors:
-1. I am an individual, not a team.
-2. I am at home, not in prison.
-3. I have not received any funding or donations. Everything can be traced on the blockchain.
-
-
 [996.ICU](https://996.icu/#/en_US)
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
@@ -24,7 +16,7 @@ Related press coverage:
 ---
 * *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
 * *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
-* *Wired:* [How github is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+* *Wired:* [How GitHub is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
 
 See a [full list of press](externals/news_EN.md)
 
@@ -88,7 +80,7 @@ Community powers
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
  - [996.Leave](https://github.com/623637646/996.Leave) encourages & introduces working overseas.
- - [996.RIP](https://996.rip) Old news never vanished.
+ - [996.RIP](https://web.archive.org/web/20190422174052/https://996.rip/) Old news never vanished.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
